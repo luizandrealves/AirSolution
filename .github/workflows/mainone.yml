@@ -19,5 +19,5 @@ jobs:
         ado_wit: 'Task' 
         ado_new_state: 'Committed'
         ado_active_state: 'Approved'
-        ado_close_state: 'Deploy'
+        ado_close_state: 'Done'
         ado_area_path: 'optional_area_path\\optional_area_path'
