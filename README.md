@@ -4,6 +4,8 @@ This is the first
   commit and PR with tag
   commit with tag + stages
 
-The is the second one
+This is the second one
 
-The is the third one
+This is the third one
+
+This is the fourth one
